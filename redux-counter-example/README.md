@@ -4,9 +4,9 @@ Bu proje, Redux Toolkit kullanımını öğrenmek ve pekiştirmek için tasarlan
 
 ## 📱 Uygulama Görünümü
 
-![Redux Counter Uygulaması](../output.png)
+![Redux Counter Uygulaması](/redux-counter-example/output.png)
 
-*Yukarıdaki görsel, uygulamanın ana arayüzünü göstermektedir. Temiz ve modern tasarımı ile kullanıcı dostu bir deneyim sunar.*
+*Yukarıdaki görsel, uygulamanın ana arayüzünü göstermektedir. Temiz ve modern tasarımı ile kullanıcı dostu bir deneyim sunar.*   
 
 ## 🎯 Proje Amacı
 
